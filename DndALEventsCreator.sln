@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DALEC.BLL", "DALEC.BLL\DALEC.BLL.csproj", "{3C7AF667-3D43-4975-98E4-A79781C942FC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DALEC.DAL", "DALEC.DAL\DALEC.DAL.csproj", "{B491C0B7-7280-47EC-8850-FE0FD157FC0F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsFormsClient", "WindowsFormsClient\WindowsFormsClient.csproj", "{3AF50723-E490-4236-86CE-28108FF42AFF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3C7AF667-3D43-4975-98E4-A79781C942FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3C7AF667-3D43-4975-98E4-A79781C942FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3C7AF667-3D43-4975-98E4-A79781C942FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3C7AF667-3D43-4975-98E4-A79781C942FC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B491C0B7-7280-47EC-8850-FE0FD157FC0F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B491C0B7-7280-47EC-8850-FE0FD157FC0F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B491C0B7-7280-47EC-8850-FE0FD157FC0F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B491C0B7-7280-47EC-8850-FE0FD157FC0F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3AF50723-E490-4236-86CE-28108FF42AFF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3AF50723-E490-4236-86CE-28108FF42AFF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3AF50723-E490-4236-86CE-28108FF42AFF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3AF50723-E490-4236-86CE-28108FF42AFF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
